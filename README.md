@@ -1,11 +1,3 @@
-# Willkommen!
+# Ahoi!
 
-## auf meiner Website
-
-Hier findest du:
-- dies
-- und das
-
-schau dir doch mal diese [Seite](/test) an!
-schau dir doch mal diese [Seite](test) an!
-schau dir doch mal diese [Seite](https://alphaomega0043.github.io/test) an!
+wow! so viel Inhalte :)
